@@ -1,0 +1,319 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"fonts",
+				"font-style"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"magin",
+				"margin-bottom"
+			],
+			[
+				"header",
+				"header-custom-panel"
+			],
+			[
+				"heade",
+				"headerText"
+			],
+			[
+				"footer",
+				"footerSocialContainer"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"l",
+				"line-height"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"back",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n<head>\n	<title>Greeting</title>\n</head>\n<body>\n	<p>Hello, World!</p>\n</body>\n</html>",
+			"file": "/c/Users/Admin/Desktop/Rails/Projects/sample_app/public/hello.html",
+			"file_size": 115,
+			"file_write_time": 130262682316580166,
+			"settings":
+			{
+				"buffer_size": 107,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Ruby/Ruby.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Admin/Desktop/Rails/Projects/demo_app/app/models/user.rb",
+		"/C/Users/Admin/Desktop/Rails/Projects/sample_app/Gemfile",
+		"/C/Users/Admin/Desktop/Rails/Projects/demo_app/app/models/micropost.rb",
+		"/C/Users/Admin/Desktop/Rails/Projects/first_app/README.md",
+		"/C/Users/Admin/Desktop/Rails/Projects/demo_app/Gemfile",
+		"/C/Users/Admin/Desktop/Ruby/Practice/ex1.rb",
+		"/C/Users/Admin/Desktop/Rails/Projects/first_app/Gemfile",
+		"/C/Users/Admin/Desktop/Ruby/Practice/sample_text.txt",
+		"/C/Users/Admin/Desktop/Forever Scrolling/Clients/TJS Corp/Web Design/v1.0 081013/index.htm",
+		"/C/Users/Admin/Desktop/index.htm",
+		"/C/wamp/www/index.htm",
+		"/C/wamp/www/css/master.css",
+		"/C/wamp/www/read.htm",
+		"/C/wamp/www/header.php",
+		"/C/wamp/www/footer.php",
+		"/C/wamp/www/menu.php",
+		"/C/wamp/www/css/ie10.css",
+		"/C/wamp/www/offers.php",
+		"/C/wamp/www/services.php",
+		"/C/wamp/www/index.php",
+		"/C/wamp/www/contact.php",
+		"/C/Users/Admin/Desktop/Web Design/Red V Photography/redvblack.jpg",
+		"/C/wamp/www/about.php",
+		"/C/wamp/www/process.php",
+		"/C/wamp/www/mail.php",
+		"/C/Users/Admin/Desktop/Forever Scrolling/Website/css/reset.css",
+		"/C/Users/Admin/Desktop/Forever Scrolling/Website/css/master.css",
+		"/C/Users/Admin/Desktop/Forever Scrolling/Website/mail.php",
+		"/C/Users/Admin/Desktop/Forever Scrolling/Website/index.htm",
+		"/C/wamp/www/header.html",
+		"/C/wamp/www/footer.html",
+		"/C/Users/Admin/Desktop/Web Design/Said Business School/default.htm",
+		"/C/Users/Admin/Desktop/Web Design/Said Business School/contact.htm",
+		"/C/Users/Admin/Desktop/Web Design/Said Business School/how-to-apply.htm",
+		"/C/Users/Admin/Desktop/Web Design/Said Business School/css/master.css",
+		"/C/Users/Admin/Desktop/Web Design/Said Business School/css/ie9.css",
+		"/C/Users/Admin/Desktop/Web Design/Said Business School/css/ie8.css",
+		"/C/Users/Admin/Desktop/Web Design/Said Business School/news.htm",
+		"/C/Users/Admin/Desktop/Web Design/Said Business School/details.htm",
+		"/C/Users/Admin/Desktop/Web Design/Said Business School/leadership.htm",
+		"/C/Users/Admin/Desktop/Web Design/Said Business School/css/how-to-apply.css",
+		"/C/Users/Admin/Desktop/Web Design/Said Business School/css/details.css",
+		"/C/Users/Admin/Desktop/Web Design/Said Business School/css/sub.css",
+		"/C/Users/Admin/Desktop/Web Design/Said Business School/about.htm",
+		"/C/Users/Admin/Desktop/Web Design/Said Business School/advisory-board.htm",
+		"/C/Users/Admin/Desktop/Web Design/Said Business School/apply.htm",
+		"/C/Users/Admin/Desktop/Web Design/Said Business School/candidate-criteria.htm",
+		"/C/Users/Admin/Desktop/Web Design/Said Business School/college-life.htm",
+		"/C/Users/Admin/Desktop/Web Design/Said Business School/cost-of-masters.htm",
+		"/C/Users/Admin/Desktop/Web Design/Said Business School/life-at-oxford.htm",
+		"/C/Users/Admin/Desktop/Web Design/Said Business School/masters-courses.htm",
+		"/C/Users/Admin/Desktop/Web Design/Said Business School/our-scholars.htm",
+		"/C/Users/Admin/Desktop/Web Design/Said Business School/oxford-mba.htm",
+		"/C/Users/Admin/Desktop/Web Design/Said Business School/pershing-square-foundation.htm",
+		"/C/Users/Admin/Desktop/Web Design/Said Business School/press-office.htm",
+		"/C/Users/Admin/Desktop/Web Design/Said Business School/said-business-school.htm",
+		"/C/Users/Admin/Desktop/Web Design/Said Business School/scholarship-funding.htm",
+		"/C/Users/Admin/Desktop/Web Design/Said Business School/css/ie7.css",
+		"/C/Users/Admin/Desktop/Web Design/Said Business School/css/ie7and8.css",
+		"/C/Users/Admin/Desktop/Web Design/Said Business School/css/apply.css",
+		"/C/Users/Admin/Desktop/Web Design/Said Business School/css/contact.css",
+		"/C/Users/Admin/Desktop/Web Design/Said Business School/css/about.css",
+		"/C/Users/Admin/Desktop/Web Design/Said Business School/css/our-scholars.css",
+		"/C/Users/Admin/Desktop/Web Design/Said Business School/css/advisory-board.css",
+		"/C/Users/Admin/Desktop/Web Design/Said Business School/css/news.css",
+		"/C/Users/Admin/Desktop/Web Design/Said Business School/the-scholarship.htm",
+		"/C/Users/Admin/Desktop/Web Design/Said Business School/css/the-scholarship.css",
+		"/C/Users/Admin/Desktop/Web Design/Said Business School/mba-application.htm",
+		"/C/Users/Admin/Desktop/Web Design/Said Business School/masters-programmes.htm",
+		"/C/Users/Admin/Desktop/Web Design/Said Business School/1and1-masters-courses.htm",
+		"/C/Users/Admin/Desktop/Web Design/Said Business School/js/slider.js",
+		"/C/Users/Admin/Desktop/Web Design/Said Business School/default.zip",
+		"/C/Users/Admin/Desktop/Web Design/Said Business School/js/scripts.js",
+		"/C/Users/Admin/Desktop/Web Design/Said Business School/css/reset.css",
+		"/C/Users/Admin/Desktop/Web Design/Said Business School/js/jquery.js",
+		"/C/Users/Admin/Desktop/Forever Scrolling HTML/index.html",
+		"/C/Users/Admin/Desktop/Forever Scrolling HTML/css/master.css",
+		"/C/Users/Admin/Desktop/Forever Scrolling HTML/js/scripts.js"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\n						<h4>A Heading</h4>\n\n						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\n						tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,\n						quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo\n						consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse\n						cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non\n						proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>\n\n",
+			"<a href=\"#\" class=\"list-group-item\">\n						<h4 class=\"list-group-item-heading\">Lorem Ipsum</h4>\n						<p class=\"list-group-item-text\">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\n						tempor incididunt ut labore et dolore magna aliqua.</p>\n					</a>\n					",
+			"	<link href=\"css/bootstrap.min.css\" rel=\"stylesheet\" media=\"screen\" />",
+			"imgDealOct13",
+			"25px",
+			"Saїd",
+			"0",
+			"'),\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/c/Users/Admin/Desktop/Rails/Projects/sample_app/public/hello.html",
+					"settings":
+					{
+						"buffer_size": 107,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								107,
+								107
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 142.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 132.0,
+	"status_bar_visible": true
+}
